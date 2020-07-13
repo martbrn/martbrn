@@ -13,4 +13,4 @@ CTFs Team: [CTFs](https://ctftime.org/team/108009 "Outside the box") 🕹
 
 Thanks for visiting me and any comments are welcome. 😁
 
-**sudo cat welcome.txt**
+### **sudo cat welcome.sh**
