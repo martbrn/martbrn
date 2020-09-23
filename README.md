@@ -9,6 +9,8 @@ This is my linkedin: [Linkedin](https://www.linkedin.com/in/martin-bernaola/ "Ma
 
 In my free time we solve CTFs in teams and study security.
 
+Venturing into the DevOps world 🌎
+
 CTFs Team: [CTFs](https://ctftime.org/team/108009 "Outside the box") 🕹
 
 Thanks for visiting me and any comments are welcome. 😁
