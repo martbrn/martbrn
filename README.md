@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Martin Bernaola, and I am an Information Systems Engineer. 
+My name is Martin Bernaola, and I am a Systems Engineer. 
 It makes me happy to be able to learn all possible technologies and explore new things. 😄
 
 I am a Full Stack web developer and a Linux, Python and Open Source lover. ❤
